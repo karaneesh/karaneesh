@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning react native and react.
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...nareshkumar.s1553@gmail.com
+- 📫 How to reach me: ...karaneeshwaran2003k@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i do better day by day! 
      always i has been found the fun in magical technology releted things!!!
