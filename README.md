@@ -1,16 +1,4 @@
-# [💝 Karaneeshwaran K ✓](https://nareshkumar.me/) 
-<!--
-<a href="https://www.instagram.com/lucky_prince_nk/?igshid=YmMyMTA2M2Y%3D">
-  <img align="left" alt="Karaneeshwaran K's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-<a href="https://twitter.com/karaneesh">
-  <img align="left" alt="Karaneeshwaran K | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/karaneesh/">
-  <img align="left" alt="Karaneeshwaran K LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
--->
+# [💝 Karaneeshwaran K ✓] 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaraneesh%2Fkaraneesh&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper)
 
@@ -22,10 +10,8 @@
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500" height="300" />
 
-- 🌱 I’m currently learning react native and react.
-- 💬 Ask me about ...Anything
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me: ...karaneeshwaran2003k@gmail.com
-- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i do better day by day! 
      always i has been found the fun in magical technology releted things!!!
      <hr>
