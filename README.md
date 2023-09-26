@@ -1,4 +1,4 @@
-# [💝 Karaneeshwaran K ✓] 
+# [Karaneeshwaran K ✓] 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaraneesh%2Fkaraneesh&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper)
 
